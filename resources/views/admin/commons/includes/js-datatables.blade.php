@@ -1,0 +1,3 @@
+<script>
+    $('#myTable').DataTable();
+</script>
